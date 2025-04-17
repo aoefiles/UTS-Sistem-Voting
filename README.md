@@ -1,3 +1,6 @@
+## Link Video Presentasi
+[**Video Presentasi Sistem Voting Ketua Kelas**](https://www.youtube.com/)
+
 # Sistem Voting Ketua Kelas Online - CodeIgniter 3
 
 Proyek ini adalah aplikasi **Sistem Voting Ketua Kelas Online** berbasis web yang menggunakan **framework CodeIgniter 3**. Aplikasi ini memungkinkan mahasiswa untuk memilih ketua kelas secara online, dengan fitur seperti **CRUD kandidat**, **login mahasiswa**, **validasi voting satu kali**, dan **statistik hasil voting**.
